@@ -1,0 +1,8 @@
+# download and install Node.js
+choco install nodejs --version="22.2.0"
+# check the node version 
+node --version 
+# install generative-ai
+npm install @google/generative-ai express
+# install mongoose
+install npm install mongoose
